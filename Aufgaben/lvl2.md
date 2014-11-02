@@ -1,4 +1,4 @@
-# SimpleLogin + Menu #
+## SimpleLogin + Menu ##
 
 Aufgabenstellung:
  
@@ -15,7 +15,7 @@ Bei 1-3 beliebeige ausgabe von texten, bei q das programm beenden.
  
 
 
-# numberGo #
+## numberGo ##
  
 Zahlen raten
  
@@ -40,7 +40,7 @@ highscores speichern
 highscores bei spielstart wieder anzeigen
  
  
-# PrivateCalendar #
+## PrivateCalendar ##
  
 1.)
 Liste Tage des aktuellen monats  
