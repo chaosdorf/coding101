@@ -46,10 +46,11 @@ Ausgabe: 20
  
 4.) "neustart" erlauben 
 ```
-13 + 2  
-# 15  
-2 + 2  
-# 4
+Eingabe: 13 + 2
+Ausgabe: 15
+Eingabe: clear
+Eingabe: 2 + 2
+Ausgabe: 4
 ```
 
 5.) Programm beendbar machen ohne Ctrl+c
