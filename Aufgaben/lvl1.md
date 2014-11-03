@@ -21,6 +21,22 @@ enter text: hamster sind im grunde wie Zigaretten....
 save to file: hamster.info
 ```
 
+## Random Tweet ##
+Ein Programm, dass aus einem Text (zum Beispiel der GPL) zufällig wörter anzeigt.
+
+1.) Eine Textdatei mit viel Inhalt auslesen und eine bestimmte anzahl an Wörtern zufällig ausgeben 
+Beispiel (GPLv3):  
+```
+enter how many words you want: 5
+Ausgabe: anything acceptance shall and EVEN
+```
+
+2.) So viele Wörter "sammeln" bis 140 Zeichen überschritten werden.
+
+2.1) Das Wort, dass die 140 Zeichen überschreitet NICHT abschneiden, sondern weg lassen.
+
+3.) Zufällige Textdateien aus einem Ordner auslesen und einen "Tweet" zusammen stellen.
+
 ## Calculator ##
  
 1.) Taschenrechner mit +, -, *, /  
