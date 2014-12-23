@@ -85,30 +85,3 @@ Einen Kommandozeilenparameter akzeprieren, der das anzeigen eines Menüs unterdr
 9.)
 Exportiere beliebigen Monat zu statischem HTML  
 Ohne "heute" aber mit markierten Terminen und mit einer liste unter dem Kalender mit den Überrschtriften der Termine+Datum
-
- 
-# LinkChecker #
- 
-1.) Lade eine Liste mit URLS
- 
-2.) Prüfe ob URL erreichbar ist
- 
-2.1) messe response time
- 
-2.2) logge IP
- 
-2.3) zähle HOPs
- 
-3.) Speichere Ergebnis in Datei
- 
-4.) Kommandozeilenparameter:
- 
-4.1) Sepichere als CSV
- 
-4.2) Speichere als HTML
- 
-4.3) Speichere als XML (nutze go libs!)
- 
-4.4) Speichere als JSON (nutze wenn möglich go libs!)
- 
-5.) Multithreading!!einsDrölfzigsch1!1
