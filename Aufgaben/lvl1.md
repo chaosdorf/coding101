@@ -3,7 +3,7 @@
 
 1. Zahlen von 1 bis incl. 999 im terminal ausgeben
  
-2. Zahlen von 1 bis incl. 99, jede durch 5 teilbare zahl in eine datei schreiben  
+2. Zahlen von 1 bis incl. 99, jede durch 5 teilbare zahl in eine Datei schreiben  
 (NICHT ins terminal ausgeben, newline getrennt)
  
 3. Programm ist erst ab 18 Jahren geeignet.  
