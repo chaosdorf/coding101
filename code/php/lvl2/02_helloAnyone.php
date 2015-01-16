@@ -20,6 +20,7 @@ if (isset($_REQUEST['username']) || isset($_REQUEST['pass'])) {
 		<title><?php print $pageTitle; ?></title>
 	</head>
 	<body>
+		<h1>HALL OVER 9000!</h1>
 		<center>
 			<?php
 			if ($isLoggedIn == false) {
