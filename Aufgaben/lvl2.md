@@ -25,7 +25,7 @@ $mensch2 hat 3 versuche zu raten
 programm sagt bei fehler, ob die geratene zahl über oder unter dem zielergebnis steht  
  
 2.)
-wie 1. nur das spieler 1 der Computer ist und eine zahl vorgibtvorgibt
+wie 1. nur, dass Spieler 1 der Computer ist und eine zahl vorgibt
  
 2.2)
 Auswählbar machen ob zahlenvorgeber Mensch oder Computer ist
@@ -44,8 +44,8 @@ highscores bei spielstart wieder anzeigen
  
 1.)
 Liste Tage des aktuellen monats  
-(eine woche je zeile, mit wochennummer)  
-Wochennanfang ist Monatg
+(eine Woche je Zeile, mit Wochennummer)  
+Wochenanfang ist Monatg
  
 2.)
 markiere "Heute"
