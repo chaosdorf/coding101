@@ -1,4 +1,3 @@
-
 ## WHEEEEE ##
 
 1.) Lasse den Benutzer eine Zahl eingeben und Stelle folgendes dar
