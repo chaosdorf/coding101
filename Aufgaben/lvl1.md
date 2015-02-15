@@ -1,3 +1,52 @@
+
+## WHEEEEE ##
+
+1.) Lasse den Benutzer eine Zahl eingeben und Stelle folgendes dar
+
+```
+Enter MAX: 5
+#
+##
+###
+####
+#####
+```
+
+2.) Lasse den Benutzer eine Zahl eingeben und Stelle folgendes dar
+
+```
+Enter MAX: 5
+#
+##
+###
+####
+#####
+####
+###
+##
+#
+```
+
+
+## Ladebalken ##
+
+1.) Stelle einen Ladebalken dar.
+
+```
+[###       ] 30 %
+```
+
+2.) Lasse den Ladebalken von der Eingabe (im beispiel 70, Eingabe ist dynamisch) bis 100% laufen
+
+```
+Enter State: 70
+[#######   ]  70 %
+[########  ]  80 %
+[######### ]  90 %
+[##########] 100 %
+```
+
+
 ## TestProgram ##
 (Diese Aufgabe lässt sich am besten im Terminal erledigen)  
 
@@ -19,54 +68,6 @@ Beispiel:
 ```
 enter text: hamster sind im grunde wie Zigaretten....
 save to file: hamster.info
-```
-
-
-## Ladebalken ##
-
-1.) Stelle einen Ladebalken dar.
-
-```
-[###       ] 30 %
-```
-
-2.) Lasse den Ladebalken von der Eingabe bis 100% laufen
-
-```
-Enter State: 70
-[#######   ]  70 %
-[########  ]  80 %
-[######### ]  90 %
-[##########] 100 %
-```
-
-
-## WHEEEEE ##
-
-1.) Stelle folgendes dar
-
-```
-Enter MAX: 5
-#
-##
-###
-####
-#####
-```
-
-2.) Stelle folgendes dar
-
-```
-Enter MAX: 5
-#
-##
-###
-####
-#####
-####
-###
-##
-#
 ```
 
 
