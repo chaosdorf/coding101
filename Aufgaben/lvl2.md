@@ -14,6 +14,34 @@ Es soll mit der eingabe vor der klammer ausgewähl werden können.
 Bei 1-3 beliebeige ausgabe von texten, bei q das programm beenden.  
  
 
+## WordGuess ##
+
+1.)  
+Spieler 1 gibt ein wort ein und Spieler 2 muss es erraten.  
+Der erste und der letzte Buchstabe soll dabei angezeigt werden.  
+3 Versuche.
+
+2.)  
+Auswählbar machen, ob 1 oder 2 Spieler.  
+Die CPU wählt zufällig ein Wort aus einer Liste.  
+
+3.)  
+Die CPU wählt ein Wort aus Wikipedia mit einer bestimmten mindestlänge, welche als schwierigkeitsgrad angegeben wird.  
+Zum Beispiel:
+
+```
+1) Singlepalyer
+2) Multiplayer
+Choose: 1
+
+Difficulty
+1) Easy (3-5)
+2) Medium (6-10)
+3) Hard (11-20)
+4) Academic (20-∞)
+Choose: 
+```
+
 
 ## numberGo ##
  
@@ -38,35 +66,6 @@ highscores speichern
  
 4.1)
 highscores bei spielstart wieder anzeigen
- 
-
-## WordGuess ##
-
-1.)
-Spieler 1 gibt ein wort ein und Spieler 2 muss es erraten.  
-Der erste und der letzte Buchstabe soll dabei angezeigt werden.  
-3 Versuche.
-
-2.)
-Auswählbar machen, ob 1 oder 2 Spieler.  
-Die CPU wählt zufällig ein Wort aus einer Liste.  
-
-3.)
-Die CPU wählt ein Wort aus Wikipedia mit einer bestimmten mindestlänge, welche als schwierigkeitsgrad angegeben wird.  
-Zum Beispiel:
-
-```
-1) Singlepalyer
-2) Multiplayer
-Choose: 1
-
-Difficulty
-1) Easy (3-5)
-2) Medium (6-10)
-3) Hard (11-20)
-4) Academic (20-∞)
-Choose: 
-```
 
 
 ## PrivateCalendar ##
