@@ -27,6 +27,41 @@ Enter MAX: 5
 ```
 
 
+## Matrix ##
+
+1.) Zeige einen gefüllten Bereich an
+
+```
+#####
+#####
+#####
+#####
+#####
+```
+
+2.) Setze ein zeichen per Zufall auf einen anderen Wert
+
+```
+#####
+#####
+#####
+###*#
+#####
+```
+
+3.) mache alle Werte vom User einstellbar
+
+```
+Width: 10
+Height: 4
+Randoms: 4
+
+#*########
+#####*####
+########*#
+###*######
+```
+
 ## Ladebalken ##
 
 1.) Stelle einen Ladebalken dar.
