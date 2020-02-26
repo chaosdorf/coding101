@@ -22,6 +22,7 @@ Eingaben:
 * Strecken länge
 * Anzahl "Schnecken" (renn-Teilnehmer)
 * "Schnecken" Namen
+* Sieger anzeigen
 
 Minimale Anforderung:  
 * nach jedem Tick soll die aktuelle Position aller "Schnecken" angezeigt werden
