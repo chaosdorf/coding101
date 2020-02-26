@@ -30,9 +30,10 @@ Minimale Anforderung:
 
 Bonus:
 * auf die "Schnecken" wetten
+* Leaderboard, welche "Schnecke" welchen Platz belegt hat
 
 Beispielvideo:  
-[![Snail Race sample application](https://img.youtube.com/vi/88PbF-MIGlw/0.jpg)](https://www.youtube.com/watch?v=88PbF-MIGlw)
+[![Snail Race sample application](https://img.youtube.com/vi/4TE0eqtxYLA/0.jpg)](https://www.youtube.com/watch?v=4TE0eqtxYLA)
 
 ## TicTacToe ##
  
