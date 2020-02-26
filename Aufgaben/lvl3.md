@@ -16,16 +16,22 @@
 
 ## Snail Race ##
 
-Ein spiel in dem Tick-Basiert "Schnecken" (oder beliebige andere) um die Wette "rennen".  
+Ein Spiel in dem Tick basiert "Schnecken" (oder beliebige andere) um die Wette "rennen".  
 
 Eingaben:  
 * Strecken länge
 * Anzahl "Schnecken" (renn-Teilnehmer)
 * "Schnecken" Namen
 
-Das Programm soll Tickweise den aktuellen Status der Rennteilnehmer ausgeben.
+Minimale Anforderung:  
+* nach jedem Tick soll die aktuelle Position aller "Schnecken" angezeigt werden
+* "Schnecken" haben eine zufällige minimal/maximal geschwindigkeit
 
-Beispielvideo: [![Snail Race sample application](https://img.youtube.com/vi/88PbF-MIGlw/0.jpg)](https://www.youtube.com/watch?v=88PbF-MIGlw)
+Bonus:
+* auf die "Schnecken" wetten
+
+Beispielvideo:  
+[![Snail Race sample application](https://img.youtube.com/vi/88PbF-MIGlw/0.jpg)](https://www.youtube.com/watch?v=88PbF-MIGlw)
 
 ## TicTacToe ##
  
