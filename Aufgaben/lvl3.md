@@ -14,6 +14,19 @@
 5. Multithreading!!einsDrölfzigsch1!1
 
 
+## Snail Race ##
+
+Ein spiel in dem Tick-Basiert "Schnecken" (oder beliebige andere) um die Wette "rennen".  
+
+Eingaben:  
+* Strecken länge
+* Anzahl "Schnecken" (renn-Teilnehmer)
+* "Schnecken" Namen
+
+Das Programm soll Tickweise den aktuellen Status der Rennteilnehmer ausgeben.
+
+Beispielvideo: [![Snail Race sample application](https://img.youtube.com/vi/88PbF-MIGlw/0.jpg)](https://www.youtube.com/watch?v=88PbF-MIGlw)
+
 ## TicTacToe ##
  
 http://en.wikipedia.org/wiki/Tic-tac-toe
