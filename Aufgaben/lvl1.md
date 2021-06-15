@@ -26,6 +26,39 @@ Enter MAX: 5
 #
 ```
 
+## Ladebalken ##
+
+1.) Stelle einen Ladebalken dar.
+
+```
+[###       ] 30 %
+```
+
+2.) Lasse den Ladebalken von der Eingabe (im beispiel 70, Eingabe ist dynamisch) bis 100% laufen
+
+```
+Enter State: 70
+[#######   ]  70 %
+[########  ]  80 %
+[######### ]  90 %
+[##########] 100 %
+```
+
+## Message Of The Day ##
+
+Mögliche Nachrichten (es können auch eigene sein, der Einfachheit halber sind hier Beispiele):
+```
+No one is perfect - that’s why pencils have erasers. - Wolfgang Riebe
+Have no fear of perfection - you'll never reach it. - Salvador Dali
+The tallest mountain started as a stone. - One Punch Man Intro
+Make it work. Make it nice. Make it fast. Always obey this order! - kiraa
+A good programmer is someone who always looks both ways before crossing a one-way street. – Doug Linder
+If debugging is the process of removing software bugs, then programming must be the process of putting them in. - Edsger W. Dijkstra
+```
+
+1. Zeige dem user eine Zufällige Nachricht des tages an.
+
+2. Sorge dafür, dass jede zufällig angezeigte nachricht nur 1x angezeigt wird bis alle Nachrichten angezeigt wurden / es keine dopplungen gibt bis alle angezeigt wurden.
 
 ## Matrix ##
 
@@ -61,25 +94,6 @@ Randoms: 4
 ########*#
 ###*######
 ```
-
-## Ladebalken ##
-
-1.) Stelle einen Ladebalken dar.
-
-```
-[###       ] 30 %
-```
-
-2.) Lasse den Ladebalken von der Eingabe (im beispiel 70, Eingabe ist dynamisch) bis 100% laufen
-
-```
-Enter State: 70
-[#######   ]  70 %
-[########  ]  80 %
-[######### ]  90 %
-[##########] 100 %
-```
-
 
 ## TestProgram ##
 (Diese Aufgabe lässt sich am besten im Terminal erledigen)  
