@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coding 101</title>
+</head>
+<body>
+	<script type="text/javascript">
+		/*
+		*	fix the table
+		*	show the content from '$entrysArray'
+		*/
+		let newPageTitle = 'fix the table';
+		document.title = newPageTitle;
+
+		let entrysArray = ['hamster', 'spam', 'eggs', 'foo', 'bar'];
+
+
+		let table = document.getElementById("inventoryTable");
+
+		for (let i=0; i<=0; i++) {
+			let row = table.insertRow(0);
+			
+			let cell1 = row.insertCell(0);
+			let cell2 = row.insertCell(1);
+
+			cell1.innerHTML = entrysArray;
+			cell2.innerHTML = i;
+		}
+	</script>
+	<table id="inventoryTable">
+		<tr>
+			<th>Inventory</th>
+			<th>Inventory Index</th>
+		</tr>
+	</table>
+</body>
+</html>

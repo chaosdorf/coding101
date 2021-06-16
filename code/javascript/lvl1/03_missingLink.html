@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coding 101</title>
+</head>
+<body>
+	<script type="text/javascript">
+		/*
+		*  theres a missing-link (no shit)
+		*  you cant click,
+		*  make all links show 
+		*/
+
+		let linksDict = {
+			'http://wiki.chaosdorf.de/coding101': 'Coding101',
+			'https://twitter.com/bison_42': 'Twison',
+			'https://github.com/pythonfoo/pythonfoo': 'Pythonfoo-Beginner',
+			'https://github.com/bison--': '',
+			'https://github.com/chaosdorf/coding101': 'Github Coding101'
+		};
+
+		document.getElementById("links");
+
+		for(var key in linksDict) {
+			linkParagraph.innerHTML =  '<a href="' + key + '">' + linksDict + "</a><br>\n";
+		}
+	</script>
+	<p id="links"></p>
+</body>
+</html>
