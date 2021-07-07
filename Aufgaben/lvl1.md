@@ -60,6 +60,8 @@ If debugging is the process of removing software bugs, then programming must be 
 
 2. Sorge dafür, dass jede zufällig angezeigte nachricht nur 1x angezeigt wird bis alle Nachrichten angezeigt wurden / es keine dopplungen gibt bis alle angezeigt wurden.
 
+3. Wenn alle Nachrichten ausgegeben wurden, lasse wieder alle Nachrichten zu und wiederhole 2.
+
 ## Matrix ##
 
 1.) Zeige einen gefüllten Bereich an
