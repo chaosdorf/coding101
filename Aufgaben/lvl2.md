@@ -26,9 +26,13 @@ Auswählbar machen, ob 1 oder 2 Spieler.
 Die CPU wählt zufällig ein Wort aus einer Liste.  
 
 3.)  
-Die CPU wählt ein Wort aus Wikipedia mit einer bestimmten mindestlänge, welche als schwierigkeitsgrad angegeben wird.  
-Zum Beispiel:
+Die CPU wählt ein Wort aus der GPL mit einer bestimmten mindestlänge, welche als schwierigkeitsgrad angegeben wird.  
 
+4.)
+Die CPU wählt ein Wort aus der Wikipedia mit einer bestimmten mindestlänge, welche als schwierigkeitsgrad angegeben wird.  
+
+
+Zum Beispiel:  
 ```
 1) Singlepalyer
 2) Multiplayer
