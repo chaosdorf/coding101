@@ -103,14 +103,14 @@ Randoms: 4
 1. Zahlen von 1 bis incl. 999 im terminal ausgeben
  
 2. Zahlen von 1 bis incl. 99, jede durch 5 teilbare zahl in eine Datei schreiben  
-(NICHT ins terminal ausgeben, newline getrennt)
+(zusätzlich NICHT in der normalen Ausgabe/Terminal ausgeben, newline getrennt)
  
 3. Programm ist erst ab 18 Jahren geeignet.  
-Eingabe , Prüfung, Programmabbruch!  
+Eingabe, Prüfung, Programmabbruch!  
 (integers/zahlen reichen ;)
  
 4. benutzername und passwort sollen abgefragt werden
-solange benutzername und passwort nicht stimmen, weiter danach fragen(kann erstmal RAW sein, ohne passwort * abfrage)
+solange benutzername und passwort nicht stimmen, weiter danach fragen (kann erstmal RAW sein, ohne passwort * abfrage)
  
 5. Ein beliebiger text soll eingegeben werden können und dieser in einer FREI wählbaren Datei (kann vorgegebener ordner sein) gespeichert werden.
  
