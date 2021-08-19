@@ -171,3 +171,18 @@ Ausgabe: anything acceptance shall and EVEN
 2.1) Das Wort, dass die 140 Zeichen überschreitet NICHT abschneiden, sondern weg lassen.
 
 3.) Zufällige Textdateien aus einem Ordner auslesen und einen "Tweet" zusammen stellen.
+
+## Listiger Luchs ##
+
+Array (entsprechend der Benutzen Sprache anpassen):   
+```[5, 7, 3, 2, 1, 0, 8, 9, 4, 6]```
+
+1. Nehme das gegebene Array und gebe es lesbar (auf der Konsole/Terminal, wenn verfügbar) aus.  
+Ermittle über eine User-Abfrage, wie viele Zahlen der User vom Array-Anfang aufaddiert haben möchte.  
+Und gebe die Summe der Addition auf die Konsole aus.  
+
+2. Füge vorher eine Abfrage hinzu, von welcher Seite aus (Anfang oder Ende des Arrays) der User diese Addition haben möchte.  
+Und implementiere die Anforderung im Code.  
+
+3. Füge vorher eine weitere Abfrage hinzu, ob der User das Array vor der Addition sortiert haben will oder nicht und implementiere die Anforderung im Code.
+
