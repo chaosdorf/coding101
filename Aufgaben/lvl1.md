@@ -174,7 +174,7 @@ Ausgabe: anything acceptance shall and EVEN
 
 ## Listiger Luchs ##
 
-Array (entsprechend der Benutzen Sprache anpassen):   
+Array (entsprechend der Benutzten Sprache anpassen):   
 ```[5, 7, 3, 2, 1, 0, 8, 9, 4, 6]```
 
 1. Nehme das gegebene Array und gebe es lesbar (auf der Konsole/Terminal, wenn verfügbar) aus.  
