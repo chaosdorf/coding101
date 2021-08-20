@@ -98,12 +98,12 @@ Randoms: 4
 ```
 
 ## TestProgram ##
-(Diese Aufgabe lässt sich am besten im Terminal erledigen)  
+(Diese Aufgabe lässt sich am besten, aber nicht nur, im Terminal/Console erledigen)  
 
-1. Zahlen von 1 bis incl. 999 im terminal ausgeben
+1. Zahlen von 1 bis incl. 999 ausgeben
  
 2. Zahlen von 1 bis incl. 99, jede durch 5 teilbare zahl in eine Datei schreiben  
-(zusätzlich NICHT in der normalen Ausgabe/Terminal ausgeben, newline getrennt)
+(zusätzlich in diese Datei und die durch 5 Teilbare Zahl NICHT in der normalen Ausgabe ausgeben, die Werte in der Datei sind newline getrennt)
  
 3. Programm ist erst ab 18 Jahren geeignet.  
 Eingabe, Prüfung, Programmabbruch!  
