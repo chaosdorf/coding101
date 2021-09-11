@@ -2,7 +2,7 @@
 
 """
 Baut die Funktion **snake_case** so, dass die Tests **True** ausgeben.
-Macht es C-like in pure python ohne imports und ohne fancy string Methoden (das join ist nur für die tests der Übersicht halber drin).
+Macht es C-like in pure python ohne imports und ohne fancy string Methoden (Beispiel: kein lower, keine der Funktionen https://twitter.com/AbzAaron/status/1434556230014541826) (das join ist nur für die tests der Übersicht halber drin).
 Da Python strings nicht by-ref übergeben kann und es mehr wie C sein soll wird mit Listen gearbeitet.
 """
 
