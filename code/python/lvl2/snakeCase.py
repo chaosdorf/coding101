@@ -1,8 +1,18 @@
 #!/usr/bin/env python
 
 """
-Baut die Funktion **snake_case** so, dass die Tests **True** ausgeben.
-Macht es C-like in pure python ohne imports und ohne fancy string Methoden (Beispiel: kein lower, keine der Funktionen https://twitter.com/AbzAaron/status/1434556230014541826) (das join ist nur für die tests der Übersicht halber drin).
+Wandle alle Großbuchstaben in snake_case um.
+
+Beispiele:
+
+Eingabe: makeSnakeCase
+Ausgabe: make_snake_case
+
+Eingabe: More Snake
+Ausgabe: _more _snake
+
+Bau die Funktion **snake_case** so, dass die Tests **True** ausgeben.
+Mach es C-like in pure python ohne imports und ohne fancy string Methoden (Beispiel: kein lower, keine der Funktionen https://twitter.com/AbzAaron/status/1434556230014541826) (das join ist nur für die tests der Übersicht halber drin).
 Da Python strings nicht by-ref übergeben kann und es mehr wie C sein soll wird mit Listen gearbeitet.
 """
 
