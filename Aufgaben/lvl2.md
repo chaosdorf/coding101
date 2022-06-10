@@ -1,6 +1,6 @@
 ## Members ##
 
-Textdatei: 
+Textdatei liegt unter: Aufgaben/data/member_list.txt (https://github.com/chaosdorf/coding101/blob/master/Aufgaben/data/member_list.txt)
 
 * Lese die gegebene Textdatei ein. In jeder Zeile steht ein Name und eine Mitgliedsnummer. Verarbeite die Daten so, dass für jedes Mitglied ein Objekt (oder vergleichbare Datenstruktur) erstellt wird. Die Objekte sollten dann in einer Liste gespeichert werden. Gebe die fertigen Mitglieder im Browserfenster / in der Konsole / verfügbares UI übersichtlich aus, sodass die Namen und die Mitgliedsnummern jeweils untereinander stehen wie in einer Art Tabelle.
 * Füge dem Ganzen einen User-Input hinzu, wo der User einen Namen eingeben kann. Der Name soll dann mithilfe einer automatisch generierten Mitgliedsnummer als neues Objekt in der Liste gespeichert werden.
