@@ -27,7 +27,7 @@ File Specifications:
 | color table    | no*      | 3              | e.g. 0xFA 0x80 0x72 | * if colors >= 1                                                                  |
 | color table    | no*      | 3              | e.g. 0x90 0xEE 0x90 | * if colors >= 2                                                                  |
 | color table... | ...      |                |                     | and so son                                                                        |
-| color pixel    | yes      | width * height | 0x00 to 0xFF        | vales between 0x00 and `colors`<br/>0x01 is color index 1<br/>0xff is transparent |
+| color pixel    | yes      | width * height | 0x00 to 0xFF        | vales between 0x00 and `colors`<br/>0x01 is color index 1<br/>0x00 is transparent |
 
 If no colors are set, 0x00 is transparent, 0x01 is an undefined color based on the implementation.
 
