@@ -30,3 +30,24 @@ File Specifications:
 | color pixel    | yes      | width * height | 0x00 to 0xFF        | vales between 0x00 and `colors`<br/>0x01 is color index 1<br/>0xff is transparent |
 
 If no colors are set, 0x00 is transparent, 0x01 is an undefined color based on the implementation.
+
+## Example
+
+The file in `data/sample.crapmap` is a 5x5 image with 2 colors, RED and GREEN with the following pattern:  
+
+```
+R G R G R
+G R G R G
+R G R G R
+G R G R G
+R G R G R
+```
+
+As emojis:
+```
+🟥🟩🟥🟩🟥
+🟩🟥🟩🟥🟩
+🟥🟩🟥🟩🟥
+🟩🟥🟩🟥🟩
+🟥🟩🟥🟩🟥
+```
