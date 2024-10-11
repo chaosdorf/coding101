@@ -7,7 +7,7 @@
   3. zähle HOPs
 3. Speichere Ergebnis in Datei
 4. Kommandozeilenparameter:
-  1. Sepichere als CSV
+  1. Speichere als CSV
   2. Speichere als HTML
   3. Speichere als XML (nutze libs!)
   4. Speichere als JSON (nutze wenn möglich libs!)
